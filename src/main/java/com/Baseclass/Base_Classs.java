@@ -185,6 +185,18 @@ public class Base_Classs {
 		driver.quit();
 	}
 	
+	public static void isbrowsertitle() {
+      	driver.getTitle();
+}
+	
+	public static void getbrowserurl() {
+		driver.getCurrentUrl();
+	}
+	
+	
+	
+	
+	
 	
 	
 	
